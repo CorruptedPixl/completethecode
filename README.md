@@ -12,7 +12,7 @@ Join The Discord - Help us solve shit
 
 [Phase2 repo](https://phase2.completethecode.com) - More details on the second phase
 
-Password checker - Guess a few passwords, and see the previous guesses
+[Password checker](https://ctc2.zevaryx.com) - Guess a few passwords, and see the previous guesses
 
 [Website Repo](https://github.com/Complete-the-Code/Landing-page) - Something doesn’t work or what to change something?
 
@@ -22,11 +22,11 @@ Password checker - Guess a few passwords, and see the previous guesses
 
 The website [https://completethecodetwo.cards/](https://completethecodetwo.cards) was discovered on May 26, 2021 as part of phase I.
 
-@zeveryx created a [site](https://ctc2.zevaryx.com) that logs guesses. It’s identical to the dbrand site (same code and everything) and it's built on the same database that [J.A.R.V.I.S.](https://git.zevaryx.com/stark-industries/j.a.r.v.i.s.) uses, so guesses do carry over. @Vcubed has also made a google sheet, but it looks to be broken at the time of writing.
+@zeveryx created a [site](https://ctc2.zevaryx.com) that logs guesses. It’s identical to the dbrand site (same code and everything) and it's built on the same database that [J.A.R.V.I.S.](https://git.zevaryx.com/stark-industries/j.a.r.v.i.s.) uses, so guesses carry over. @Vcubed has also made a google sheet, but it looks to be broken at the time of writing.
 
 The site may not accept any answers at this time, or it could accept multiple. it’s impossible to know.
 
-On 4/1/22 it is rumored that OG robot would making a grand return (R.I.P. Tony’s Wallet) and we should hopefully get some more info on this day. Check back here for the latest, as this page is crowdsourced from the dbrand discord with the latest updates.
+On 4/1/22 we recived the dbrand diy kit drop, at the time of writing, it doesn't appear to have anything to do with CTC2
 
 ### Information collected so far
 

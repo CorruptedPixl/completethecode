@@ -1,4 +1,4 @@
-# CTC2 Phase 1
+# Phase 1
 
 ## Current solve status
 
@@ -27,10 +27,6 @@ We have confirmed that this is indeed a dbrand created website using WHOIS recor
 On April 1, 2021, dbrand started selling face masks again. You were able to add a "Surprise" to your purchase for an extra 10 USD, which turned out to be a robot camo mask.
 
 Once the face masks started getting delivered after they shipped on April 12, 2021, the robot camo mask also included a card like the following:
-
-| **Back** | **Front** |
-| -------- | --------- |
-|          |           |
 
 Using the Zodiac Z340 Cipher the back text decrypts to `POSTANDSEARCHONTWITTER`. This is the same on every card. On the front of the card there is a singular Zodiac Killer Symbol. These can vary and we are looking for such symbols!
 

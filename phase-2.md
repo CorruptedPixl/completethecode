@@ -1,4 +1,4 @@
-# CTC2 Phase 2
+# Phase 2
 
 This repo shows the current status of phase II for the dbrand Complete the Code 2 challenge.
 
@@ -6,13 +6,13 @@ This repo shows the current status of phase II for the dbrand Complete the Code 
 
 ## Current solve status
 
-Still **UNSOLVED** as of January 2, 2022
+Still **UNSOLVED** as of April 10, 2022
 
 The website [https://completethecodetwo.cards/](https://completethecodetwo.cards) was discovered on May 26, 2021 as part of phase I.
 
 ![website.png](https://github.com/Complete-the-Code/ctc2-phase-2/raw/master/website.png)
 
-Thanks to `@Vcubed#3271` in the dbrand Discord server they have set up a [Google Sheets](https://docs.google.com/spreadsheets/d/1ubfE2XXKmXK1Uws72nwHLYBd\_mEdxlCOOoOuhlWRCD0/edit) using a Google Apps Script to track and validate our inputs against the website, but please, don't shit inside it.
+
 
 ## Information collected so far
 
@@ -34,4 +34,6 @@ Figure 1. Robots confirming completion of Phase I and start of Phase II
 
 To view the things we did in phase I click [here](http://phase1.completethecode.com).
 
-We have a bunch of dipshits on Discord that have been trying to figure out what the password to the website is.[Join our suffering.](https://discord.gg/dbrand)
+We have a bunch of dipshits on Discord that have been trying to figure out what the password to the website is.
+
+[Join our suffering.](https://discord.gg/dbrand)
