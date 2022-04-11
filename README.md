@@ -18,6 +18,4 @@ Hello and welcome to Complete The Code. This is the second alternate reality gam
 
 
 
-***
-
-##
+###
